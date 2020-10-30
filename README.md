@@ -1,1 +1,1 @@
-# Apliacion Desktop para adminsitrar el CVI
+# Aplicacion Desktop para adminsitrar el CVI
